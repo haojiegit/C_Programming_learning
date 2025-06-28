@@ -22,6 +22,7 @@ int main(void)
 
 //use default 6 decimal points behavior to notice the difference
     printf("%f\n", e);
+
     return 0;
 }
 
